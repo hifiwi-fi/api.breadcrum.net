@@ -48,6 +48,7 @@
     "jsonfeed-to-rss": "^3.0.6",
     "local-storage-proxy": "^4.0.3",
     "lru-cache": "^7.13.1",
+    "mime-types": "^2.1.35",
     "mine.css": "^7.0.0",
     "mkdirp": "^1.0.4",
     "nodemailer": "^6.8.0",
